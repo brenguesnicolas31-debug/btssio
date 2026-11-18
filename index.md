@@ -6,18 +6,18 @@ Bienvenue sur mon portfolio professionnel réalisé dans le cadre du **BTS Servi
 
 ## 🎯 Qui suis-je ?
 
-Je m'appelle **[Votre Prénom NOM]**, étudiant(e) en **BTS SIO** — option **[SISR / SLAM]** au sein de **[Nom de votre établissement]**.
+Je m'appelle **Nicolas BRENGUES**, étudiant(e) en **BTS SIO** — option **SLAM** au sein de **Henri Matisse**.
 
-Passionné(e) par l'informatique, **[l'administration des systèmes et réseaux / le développement d'applications et la conception logicielle]** ainsi que la **cybersécurité**, je développe mes compétences techniques et méthodologiques à travers mes projets d'atelier de professionnalisation, mes travaux pratiques et mes périodes de stage en entreprise.
+Passionné(e) par l'informatique, **le développement d'applications et la conception logicielle** ainsi que la **cybersécurité**, je développe mes compétences techniques et méthodologiques à travers mes projets d'atelier de professionnalisation, mes travaux pratiques et mes périodes de stage en entreprise.
 
 ---
 
 ## 🎓 Mon Parcours Académique
 
-* **2024 – 2026 : BTS SIO (Option [SISR / SLAM])** — *[Nom de l'établissement, Ville]*
+* **2026 – 2028 : BTS SIO (Option SLAM)** — *Henri Matisse, Cugnaux*
   * Administration des systèmes et réseaux, gestion de parc, développement et cybersécurité.
-* **2024 : Baccalauréat [Général / STI2D / Pro SN-CIEL]** — *[Nom du lycée, Ville]*
-  * Mention *[À compléter]*
+* **2025 : Baccalauréat STI2D** — *[Charles de Gaulle, Muret]*
+  * Mention *[Assez Bien]*
 
 ---
 
@@ -48,4 +48,4 @@ Passionné(e) par l'informatique, **[l'administration des systèmes et réseaux 
 * 📄 **CV en ligne :** [Consulter mon CV](https://votre-lien-cv.fr) *(remplacez par l'URL de votre CV ou un fichier `./cv.pdf`)*
 * 💼 **LinkedIn :** [linkedin.com/in/votre-profil](https://www.linkedin.com/)
 * 💻 **GitHub :** [github.com/lynjadev](https://github.com/lynjadev)
-* ✉️ **Email :** [votre.email@exemple.fr](mailto:votre.email@exemple.fr)
+* ✉️ **Email :** [brengues.nicolas31@gmail.com](brengues.nicolas31@gmail.com)
